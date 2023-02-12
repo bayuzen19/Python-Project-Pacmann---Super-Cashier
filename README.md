@@ -16,7 +16,7 @@ Membuat sebuah program penghitung total belanja untuk mempermudah tugas seorang 
 
 # FLOWCHART
 
-![Flowchart]
+![Flowchart](https://github.com/bayuzen19/Python-Project-Pacmann---Super-Cashier/blob/main/img/flowchart_program.jpg)
 
 # MODULES EXPLANATION
 
