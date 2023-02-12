@@ -6,7 +6,7 @@
 
 Membuat sebuah program penghitung total belanja untuk mempermudah tugas seorang kasir
 
-# FEATURE REQUIREMENTS
+# FEATURE
 
 1. Customer dapat menambahkan atau menghapus item belanja
 2. Customer dapat mereset transaksi belanja
