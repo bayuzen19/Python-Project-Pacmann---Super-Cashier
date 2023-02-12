@@ -16,7 +16,7 @@ Membuat sebuah program penghitung total belanja untuk mempermudah tugas seorang 
 
 # FLOWCHART
 
-![Flowchart](https://github.com/nuralamsaputra/Cashier-Project/blob/master/img/flowchart%20super%20cashier.drawio.png)
+![Flowchart](https://github.com/bayuzen19/Python-Project-Pacmann---Super-Cashier/blob/main/img/flowchart.jpg)
 
 # MODULES EXPLANATION
 
@@ -50,7 +50,6 @@ Method untuk menghapus item tertentu
 
 ### 9. Reset Transaction
 
-![Reset Transaction](https://github.com/nuralamsaputra/Cashier-Project/blob/master/img/08.reset_item.png)
 
 Method untuk menghapus atau mereset keseluruhan transaksi
 
@@ -64,10 +63,14 @@ Menunjukkan pembayaran total
 
 
 # TEST CASE
-
-
-
-
+![test_1](https://github.com/bayuzen19/Python-Project-Pacmann---Super-Cashier/blob/main/img/test_case_1.jpg)
+memasukkan item dengan **add_item()**
+![test_2](https://github.com/bayuzen19/Python-Project-Pacmann---Super-Cashier/blob/main/img/test_case_2.jpg)
+meromove item pasta gigi dengan method **delete_item()**
+![test_3](https://github.com/bayuzen19/Python-Project-Pacmann---Super-Cashier/blob/main/img/test_case_3.jpg)
+menghapus keseluruhan transaksi dengan method **reset_transactio()**
+![test_4](https://github.com/bayuzen19/Python-Project-Pacmann---Super-Cashier/blob/main/img/test_case_4.jpg)
+memasukkan item dan menghitung total transaksi yang dibayarkan dengan method **print_total()**
 
 
 
